@@ -1,0 +1,9 @@
+{
+  "name": "redis-session",
+  "description": "Local Session using Redis",
+  "version": "0.1",
+  "author": "Mitchell Simoens <mitchell.simoens@gmail.com>",
+  "main": "./index.js",
+  "dependencies": { "redis": ">= 0.0.1" },
+  "engines": { "node": ">= 0.1.98" }
+}
