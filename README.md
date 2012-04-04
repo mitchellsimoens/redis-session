@@ -30,3 +30,8 @@ To change the configuration items, you can do this:
         debug : true,
         ttl   : 900000
     });
+
+NOTE
+----
+
+You will need to keep track of the session id and send from client back to the server to validate.
